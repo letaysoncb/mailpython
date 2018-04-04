@@ -1,0 +1,3 @@
+[console_scripts]
+mailpile = mailpile.__main__:main
+
